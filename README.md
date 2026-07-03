@@ -134,7 +134,9 @@ with appropriate attribution.
 Corresponding author:
 [Chang’an Zhou]
 [zhouchangan@sdau.edu.cn]
-Code and Data Availability
+## Code and Data Availability
 
-The code and data will be made publicly available upon acceptance.
+All code and processed datasets are publicly available at:
+
+https://github.com/houjb/soil-first-soybean-framework
 
