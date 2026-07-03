@@ -136,7 +136,12 @@ Corresponding author:
 [zhouchangan@sdau.edu.cn]
 ## Code and Data Availability
 
-All code and processed datasets are publicly available at:
+The source code and processed dataset supporting this study are publicly available at:
 
-https://github.com/houjb/soil-first-soybean-framework
+GitHub:
+https://github.com/sdauning/soil-first-soybean-framework
 
+A permanent archived version of this repository is available at:
+
+Zenodo:
+https://doi.org/10.5281/zenodo.21156720
